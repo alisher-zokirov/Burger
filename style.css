@@ -1,0 +1,127 @@
+body{
+    background: #1C1C1C;
+}
+
+.header{
+    background-image: url(./img/body-bg-img.png);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 780px;
+} 
+
+.navbar-links a{
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-bt{
+    width: 165px;
+    height: 49px;
+    border-radius: 5px;
+    background: #F6762C;
+    border: none;
+    color: white;
+}
+
+/* header */
+.header-text{
+    padding-top: 80px;
+    margin-left: 30px;
+}
+/* header end */
+
+/* boxs */
+.box-1{
+    width: 262px;
+    height: 323px;
+    border-radius: 10px;
+    background: #312F30;
+}
+
+.box-1 img{
+    margin-left: -12px;
+}
+
+.boxes{
+    margin-top: 115px;
+}
+/* boxs end */
+
+/* king burger */
+.king{
+    margin-top: 123px;
+}
+
+.king-text{
+    margin-top: 180px;
+}
+/* king burger end */
+
+/* shop */
+.shop{
+    margin-top: 240px;
+}
+
+.shop-1{
+    background-image: url(./img/food-1.png);
+    width: 604px;
+    height: 445px;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.shop-1 h2, .p1, .shop-bt{
+    margin-left: 280px;
+}
+
+.shop-2{
+    background-image: url(./img/food-2.png);
+    width: 604px;
+    height: 445px;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.shop-2 h2, .p2, .shop-bt2{
+    margin-left: 40px;
+}
+
+.shop-3{
+    background-image: url(./img/food-3.png);
+    width: 604px;
+    height: 445px;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.shop-3 h2, .p1, .shop-bt{
+    margin-left: 280px;
+}
+
+.shop-4{
+    background-image: url(./img/food-4.png);
+    width: 604px;
+    height: 445px;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.shop-4 h2, .p2, .shop-bt2{
+    margin-left: 40px;
+}
+/* shop end */
+
+/* footer */
+.footer{
+    margin-top: 148px;
+}
+
+.footer-links{
+    list-style: none;
+}
+
+.li1{
+    font-size: 20px;
+}
+/* footer end */
